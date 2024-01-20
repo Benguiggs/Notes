@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "Cuisine",
+      "subtitle": "Préparer des cookies",
+      "bodyText": "To prepare cookies, mix together flour, sugar, butter, eggs, baking powder, and a pinch of salt, then form into balls and bake in a preheated oven until golden brown.",
+      "id": "2Js5IxpT"
+    },
+    {
+      "title": "Sport",
+      "subtitle": "Badminton",
+      "bodyText": "To maintain fitness, schedule two one-hour badminton sessions weekly from Monday to Friday, plus 20 minutes of daily exercise, and don't forget to include stretching. ",
+      "id": "hE5h8rYp"
+    },
+    {
+      "title": "Cours de Mathémathique",
+      "subtitle": "Apprendre les fonctions et les dérivés",
+      "bodyText": "To grasp fundamental mathematics, focus on learning algorithms, equations, functions, derivatives, and related concepts. ",
+      "id": "88TFB3Q9"
+    }
+  ]
+}
